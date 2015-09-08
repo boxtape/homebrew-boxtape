@@ -1,6 +1,6 @@
 require "formula"
 
-class Srcclr < Formula
+class Boxtape < Formula
   homepage "http://boxtape.io"
   url "http://localhost:8000/boxtape.zip"
 
